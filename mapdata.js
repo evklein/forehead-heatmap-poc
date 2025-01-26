@@ -1,4 +1,4 @@
-[
+var mapData = [
     {
         "id": 323,
         "club": "D",
